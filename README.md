@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Cloud-project**
 
-- 🌱 I’m currently learning **react,node,express,mongo**
+- 🌱 I’m currently learning **react,node,express,mongo,aws cloud**
 
 - 👯 I’m looking to collaborate on **Full stack web-page**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/Swastik200)
 
-- 📫 How to reach me **2041013264.swastikmishra@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/swastik-mishra-161067206**
 
 - ⚡ Fun fact **Think i can learn and adapt to new skills**
 
